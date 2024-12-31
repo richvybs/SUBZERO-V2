@@ -46,7 +46,7 @@ global.isBaileysFail = false
 
 
 //global.pairingNumber = "" //+254792105520
-global.mods = ['263719647303'] 
+global.mods = ['233504759307'] 
 global.prems = ['263719647303']
 global.allowed = ['263719647303']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
